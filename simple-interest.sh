@@ -37,7 +37,7 @@
         </div>
 
         <footer>
-            &#169; This Calculator belongs to --your name--
+            &#169; This Calculator belongs to David
         </footer>
     </body>
 </html>
